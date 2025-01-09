@@ -2,5 +2,7 @@
 
 [Samsung Galaxy Y](test)
 
+[Samsung Galaxy Note 4](test)
+
 
      Vũ Minh Ngọc © 2025 by VMNit
