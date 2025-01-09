@@ -2,7 +2,7 @@
 
 [Samsung Galaxy Y](test)
 
-[Samsung Galaxy Note 4](test)
+[Samsung Galaxy Note 4](https://github.com/vuminhngocpt/galaxy-note4-t)
 
 
      Vũ Minh Ngọc © 2025 by VMNit
