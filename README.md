@@ -4,5 +4,6 @@
 
 👉🏻[Samsung Galaxy Note 4](https://github.com/vuminhngocpt/galaxy-note4-t)
 
+❤️ [Samsung Galaxy J6](test)
 
      Vũ Minh Ngọc © 2025 by VMNit
